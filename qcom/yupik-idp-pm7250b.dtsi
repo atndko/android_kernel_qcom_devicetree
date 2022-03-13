@@ -320,4 +320,4 @@
 	};
 };
 
-#include "camera/yupik-camera-sensor-idp.dtsi"
+//#include "camera/yupik-camera-sensor-idp.dtsi"
